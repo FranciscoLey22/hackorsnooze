@@ -1,0 +1,30 @@
+/* Navigation bar */
+
+nav {
+	display: flex;
+	background-color: black;
+	align-items: center;
+	padding: 5px 20px;
+	border-radius: 3px 3px 0 0;
+	color: white;
+	font-family: 'Vidaloka', serif;
+}
+
+.navbar-brand {
+	font-weight: bold;
+}
+
+.main-nav-links {
+	margin: 0 10px;
+}
+
+.nav-link {
+	/* font-size: 0.85rem; */
+	font-size:  1.4rem;
+	margin: 0 3px;
+}
+
+.nav-right {
+	margin-left: auto;
+	text-align: right;
+}
